@@ -1,5 +1,7 @@
 # Homework1DanielDeLuna
+
 # 01 HTML, CSS, and Git: Code Refactor
+This is my second Repo
 
 ## Description 
 Part of learning and understanding code is learning to de some de bugging and making your code look nice.
