@@ -1,5 +1,5 @@
 # Homework1DanielDeLuna
-*This is my 2nd repo since my first repo was giving me errors whencdoing git pulls and when I would launch my page it would use my read me file instead of the html file* 
+*This is my 2nd repo since my first repo was giving me errors whencdoing git pulls and when I would launch my page it would use my read me file instead of the html file. I will link both repos for the HW assignment* 
 # 01 HTML, CSS, and Git: Code Refactor
 This is my second Repo
 
