@@ -4,10 +4,10 @@
 This is my second Repo
 
 ## Description 
-Part of learning and understanding code is learning to de some de bugging and making your code look nice.
+Part of learning and understanding code is learning to de some de bugging and making your code look nice. For this case a marketing agency reached out for us to help debug their webpage.
 
 ## User Story
-
+*this was pulled from the module 1 challenge HW file to guide me on this project*
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -15,7 +15,7 @@ SO THAT our own site is optimized for search engines
 ```
 
 ## Acceptance Criteria
-
+*this was also pulled from the module 1 challenge HW file to guide me on this project*
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -31,13 +31,3 @@ THEN I find a concise, descriptive title
 ```
 
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
