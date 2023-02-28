@@ -29,6 +29,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+The image below is what the page should look like! 
+![image](https://user-images.githubusercontent.com/123528048/221754698-c295e32c-53c3-4853-b66f-5caabf30b664.png)
+
 Link to page 
 https://dandeluna.github.io/Homework1DanielDeLuna/
 
